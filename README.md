@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=nabeelpkl)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelpkl)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nabeelpkl/nabeelpkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
