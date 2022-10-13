@@ -2,5 +2,4 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabeelpkl&show_icons=true&count_private=true&hide=stars,contribs&theme=buefy&hide_border=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true"/>
 </div>
