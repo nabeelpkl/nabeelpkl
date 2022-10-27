@@ -1,9 +1,9 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>,&nbsp;I'm Nabeel!</h1>
 <h3 align="center">Frontend @ <a href="https://jupiter.money/">Jupiter</a></h3>
 <p align="center">
-<a href="www.linkedin.com/in/nabeelkottol" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" /></a>
+<a href="https://www.linkedin.com/in/nabeelkottol" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" /></a>
   <a href="mailto:nabeel.kottol@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email id" /></a>
-<a href="https://stackoverflow.com/users/1769274/nabeel-k" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow profile" /></a>
+<a href="https://www.stackoverflow.com/users/1769274/nabeel-k" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow profile" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
